@@ -99,7 +99,7 @@ body::-webkit-scrollbar {
 .background-image {
     width: 100%;
     height: 100%;
-    background-image: url('image/main1.png');
+    background-image: url('.main1.png');
     background-size: cover;
     background-position: center;
 }
